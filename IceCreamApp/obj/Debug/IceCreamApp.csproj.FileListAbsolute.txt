@@ -1,0 +1,7 @@
+C:\Users\Jessica\source\repos\IceCreamApp\IceCreamApp\bin\Debug\IceCreamApp.exe.config
+C:\Users\Jessica\source\repos\IceCreamApp\IceCreamApp\bin\Debug\IceCreamApp.exe
+C:\Users\Jessica\source\repos\IceCreamApp\IceCreamApp\bin\Debug\IceCreamApp.pdb
+C:\Users\Jessica\source\repos\IceCreamApp\IceCreamApp\obj\Debug\IceCreamApp.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\source\repos\IceCreamApp\IceCreamApp\obj\Debug\IceCreamApp.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\IceCreamApp\IceCreamApp\obj\Debug\IceCreamApp.exe
+C:\Users\Jessica\source\repos\IceCreamApp\IceCreamApp\obj\Debug\IceCreamApp.pdb
